@@ -47,3 +47,6 @@ Config.Jobs = {
     -- },
 }
 
+Config.AmazingScripts = true -- Leave this on if you think our scripts are amazing!
+Config.VersionChecker = true 
+

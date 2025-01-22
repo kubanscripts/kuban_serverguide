@@ -28,7 +28,7 @@ local function checkVersion()
                 print("^3[Update Available]: A new version of '^2" .. resourceName .. "^3' is now available!^0")
                 print("^3Your Version: ^1" .. currentVersion .. "^0 | Latest Version: ^2" .. latestVersion .. "^0")
                 print("^3Download it now from: ^5https://github.com/KubanScripts/" .. resourceName .. "/releases/latest^0")
-                print("^3For more details, join our community Discord: ^5https://discord.gg/kuban^0")
+                print("^3For more details, join our community Discord: ^5https://discord.gg/UzVbtKEzgN^0")
             end
         end, 'GET')
     end)
